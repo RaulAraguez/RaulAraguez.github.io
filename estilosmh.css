@@ -1,0 +1,46 @@
+h1 {
+ font-size: 60px;
+ background-color: #ffcc66;
+ text-align: center;
+ color: green;
+}
+#cabecera {
+ border-style: ridge;
+}
+#menuh {
+
+ background-color: brown;
+ align:center;
+}
+body {
+ background-color: #ffff99;
+  align: center;
+}
+#menuh ul {
+margin: 0;
+padding:0;
+}
+
+#menuh li {
+float:left;
+}
+#menuh a {
+ text-decoration: none;
+ color: blue;
+ background: silver;
+ padding: 3px 10px;
+ display: block;
+ border: 2px solid red;
+ border-width: 2px 2px 2px 2px;
+}
+.seleccion {
+ font-family: "Times New Roman",Times,serif;
+ font-size: 1.3em;
+ }
+#menuh a:hover {
+ color: blue;
+ background-color: #76ff9c;
+}
+#menuh a:active {
+ color: brown;
+}
